@@ -25,7 +25,7 @@ const Header: React.FC = () => {
               <h1 className="text-lg sm:text-2xl font-bold text-cyan-400 glitch" data-text="CONSPIRACY THEORY GENERATOR">
                 CONSPIRACY THEORY GENERATOR
               </h1>
-              <p className="text-xs text-cyan-600">Educational Satire Tool v1.0</p>
+              <p className="text-xs text-cyan-600">Educational Satire Tool v1.0 • Built by <a href="https://anthahkarana.com" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:text-cyan-300 underline">Anthahkarana</a></p>
             </div>
           </div>
           

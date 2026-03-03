@@ -54,7 +54,7 @@ const Footer: React.FC = () => {
                 © 2025 Conspiracy Theory Generator - Educational Satire Tool
               </p>
               <p className="text-xs text-gray-500 mt-1">
-                Powered by Wikipedia API • Built by Anthahkarana for educational purposes
+                Powered by Wikipedia API • Built by <a href="https://anthahkarana.com" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:text-cyan-300 underline">Anthahkarana</a> for educational purposes
               </p>
             </div>
             
